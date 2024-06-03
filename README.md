@@ -9,3 +9,9 @@ Pothole_Large_coco contains the large dataset: https://universe.roboflow.com/ima
 Pothole_coco contains the small dataset: https://public.roboflow.com/object-detection/pothole/1
 
 It also contains the README.txt file that explains how to run the code.
+
+The 2 YOLO models that this code is compared to are from these 2 GitHub repositories:
+
+YOLOv7: https://github.com/WongKinYiu/yolov7
+
+YOLOv9: https://github.com/WongKinYiu/yolov9
